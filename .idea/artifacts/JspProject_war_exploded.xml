@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JspProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JspProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JspProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JspProject" />
+        </element>
+      </element>
+      <element id="dir-copy" path="C:/Program Files/Apache Software Foundation/Tomcat 7.0/webapps" />
+    </root>
+  </artifact>
+</component>
